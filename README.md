@@ -8,8 +8,8 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
 
 📫 **Let's connect and build something amazing!**  
 <a href="https://t.me/schastliv4ick" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30"/>
-</a> tg: @schastliv4ick
+    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30"/> tg: @schastliv4ick
+</a> 
 
 ### 🛠️ Languages and Tools:
   <div>
