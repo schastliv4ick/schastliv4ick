@@ -1,4 +1,4 @@
-# 👨‍🎓 BMSTU Student | Future ML Engineer
+# 👩‍🎓 BMSTU Student | Future ML Engineer
 
 Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow State Technical University** with a deep interest in modern Machine Learning.⚡
 
@@ -8,8 +8,15 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
 
 **Let's connect and build something amazing!**  
 
-<img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30" style="vertical-align: middle"/>  <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a>
-<img src="https://cdn.simpleicons.org/gmail" alt="Email" width="30" height="30" style="vertical-align: middle"/>  <a href="mailto:kol06m@yandex.ru">kol06m@yandex.ru</a>
+<div style="display: flex; align-items: center; gap: 5px; margin-bottom: 5px;">
+  <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="15" height="15">
+  <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a>
+</div>
+
+<div style="display: flex; align-items: center; gap: 5px;">
+  <img src="https://cdn.simpleicons.org/yandex" alt="Yandex Mail" width="15" height="15">
+  <a href="mailto:kol06m@yandex.ru">kol06m@yandex.ru</a>
+</div>
 
 ### 🛠️ Languages and Tools:
   <div>
