@@ -6,17 +6,10 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
 -  🖥️ **Research focus:** Diving deep into the **Theory of Property** for my university research. Turning complex ideas into code.
 -  🥋 **Mindset:** Stay hungry, stay foolish, and always keep learning.
 
-**Let's connect and build something amazing!**  
+<img src="https://www.flaticon.com/free-icons/email" alt="Email" width="20" height="20" style="vertical-align: middle"/>  **Let's connect and build something amazing!**  
 
-<div style="display: flex; align-items: center; gap: 5px; margin-bottom: 5px;">
-  <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="15" height="15">
-  <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a>
-</div>
-
-<div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://cdn.simpleicons.org/yandex" alt="Yandex Mail" width="15" height="15">
-  <a href="mailto:kol06m@yandex.ru">kol06m@yandex.ru</a>
-</div>
+<a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a>
+<a href="mailto:kol06m@yandex.ru">kol06m@yandex.ru</a>
 
 ### 🛠️ Languages and Tools:
   <div>
