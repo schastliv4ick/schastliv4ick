@@ -1,14 +1,15 @@
 # 👨‍🎓 BMSTU Student | Future ML Engineer
 
-Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow State Technical University** with a deep interest in modern Machine Learning.🚀
+Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow State Technical University** with a deep interest in modern Machine Learning.⚡
 
--  📚 **Current obsession:** Mastering Python and the brutal beauty of Math for ML. (Yes, I actually enjoy Linear Algebra).
--   🧪 **Lab coat on:** Diving deep into the **Theory of Property** for my university research. Turning complex ideas into code.
--   🥋 **Mindset:** Stay hungry, stay foolish, and always keep learning.
+-  📖 **Current obsession:** Mastering Python and the brutal beauty of Math for ML. (Yes, I actually enjoy Linear Algebra).
+-  🖥️ **Research focus:** Diving deep into the **Theory of Property** for my university research. Turning complex ideas into code.
+-  🥋 **Mindset:** Stay hungry, stay foolish, and always keep learning.
 
-📫 **Let's connect and build something amazing!**
-    <img src="https://www.flaticon.com/free-icons/telegram" title="TG" alt="TG" width="40" height="40"/>&nbsp;>
-    tg: @schastliv4ick
+📫 **Let's connect and build something amazing!**  
+<a href="https://t.me/schastliv4ick" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30"/>
+</a> tg: @schastliv4ick
 
 ### 🛠️ Languages and Tools:
   <div>
