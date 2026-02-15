@@ -20,7 +20,6 @@ I am a BMSTU student from Russia and I want to became so cool Ml Enigineer.
       
 ### 🔥 My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schastliv4ick)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schastliv4ick)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **schastliv4ick/schastliv4ick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
