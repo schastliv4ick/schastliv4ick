@@ -6,8 +6,8 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
 -  🖥️ **Research focus:** Diving deep into the **Theory of Property** for my university research. Turning complex ideas into code.
 -  🥋 **Mindset:** Stay hungry, stay foolish, and always keep learning.
 
-**Let's connect and build something amazing!**  
-    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30"/>
+
+    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30"/> **Let's connect and build something amazing!**  
     <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a> 
 
 ### 🛠️ Languages and Tools:
