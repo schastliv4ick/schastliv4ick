@@ -6,10 +6,9 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
 -  🖥️ **Research focus:** Diving deep into the **Theory of Property** for my university research. Turning complex ideas into code.
 -  🥋 **Mindset:** Stay hungry, stay foolish, and always keep learning.
 
-<img src="mail.png" alt="Email" width="20" height="20">  **Let's connect and build something amazing!**  
-
-<a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a>
-<a href="mailto:kol06m@yandex.ru">kol06m@yandex.ru</a>
+### <img src="mail.png" alt="Email" width="25" height="25">  Let's connect and build something amazing!
+tg: <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a>   <br>   email: <a href="mailto:kol06m@yandex.ru">kol06m@yandex.ru</a>
+<br>
 
 ### 🛠️ Languages and Tools:
   <div>
@@ -24,7 +23,7 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
       <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreeSQL" alt="PostgreeSQL" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;            </div>
-
+<br>
       
 ### 🔥 My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schastliv4ick)](https://git.io/streak-stats)
