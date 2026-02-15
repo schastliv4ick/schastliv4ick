@@ -7,8 +7,10 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
 -  🥋 **Mindset:** Stay hungry, stay foolish, and always keep learning.
 
 
-<img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30"/> **Let's connect and build something amazing!**  
-    <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a> 
+**Let's connect and build something amazing!**  
+
+<img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30"/>  <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a> 
+
 
 ### 🛠️ Languages and Tools:
   <div>
@@ -23,6 +25,7 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
       <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreeSQL" alt="PostgreeSQL" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;            </div>
+
       
 ### 🔥 My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schastliv4ick)](https://git.io/streak-stats)
