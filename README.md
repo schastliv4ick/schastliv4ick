@@ -7,10 +7,8 @@ Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow St
 -  🥋 **Mindset:** Stay hungry, stay foolish, and always keep learning.
 
 **Let's connect and build something amazing!**  
-<a href="https://t.me/schastliv4ick" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="30" height="30"/>
-</a> 
- tg: <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a> 
+    <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a> 
 
 ### 🛠️ Languages and Tools:
   <div>
