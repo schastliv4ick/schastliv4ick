@@ -1,4 +1,4 @@
-# 👩‍🎓 BMSTU Student | Future ML Engineer
+# 👩‍🎓 BMSTU Student | ML Engineer
 
 Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow State Technical University** with a deep interest in modern Machine Learning.⚡
 
