@@ -2,10 +2,11 @@
 
 Hi! I'm Maria. I combine rigorous mathematical education from **Bauman Moscow State Technical University** with a deep interest in modern Machine Learning.⚡
 
+<!--
 -  📖 **Current obsession:** Mastering Python and the brutal beauty of Math for ML. (Yes, I actually enjoy Linear Algebra).
 -  🖥️ **Research focus:** Diving deep into the **Theory of Property** for my university research. Turning complex ideas into code.
 -  🥋 **Mindset:** Stay hungry, stay foolish, and always keep learning.
-
+-->
 ### <img src="mail.png" alt="Email" width="25" height="25">  Let's connect and build something amazing!
 tg: <a href="https://t.me/schastliv4ick" target="_blank">@schastliv4ick</a>   <br>   email: <a href="mailto:kol06m@yandex.ru">kol06m@yandex.ru</a>
 <br>
